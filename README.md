@@ -87,6 +87,8 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/201534937-4f051a95-2c19-4b30-92a1-3e8d7f4c537b.png)
 
+**3.4 Verifique si cumple la Ley de Kirchhoff de Corrientes en cada nodo tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.**  
+
 ***4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR***
 
 
