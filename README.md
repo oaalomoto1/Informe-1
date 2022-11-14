@@ -123,6 +123,19 @@
 
 ***4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR***
 
+*Se realizó el calculo del porcentaje de error que tuvo cada trayectoria y nodos del circuito electrico, con la relación del valor medido y el valor calculado*
+
+![image](https://user-images.githubusercontent.com/116774906/201554148-2442cf99-d9c0-4b9b-8151-f2af14f3b05c.png)
+
+*--------Porcentaje de error de las 3 trayectorias----------*
+
+![image](https://user-images.githubusercontent.com/116774906/201554202-8726316a-973b-44a4-a085-e2eab39fe43c.png)
+
+![image](https://user-images.githubusercontent.com/116774906/201554222-dcdc76ef-887c-40a2-8986-038863beb682.png)
+
+![image](https://user-images.githubusercontent.com/116774906/201554249-6191ea51-8e65-4615-8d6e-dc745715105f.png)
+
+
 
 ***5. VIDEO***
 
