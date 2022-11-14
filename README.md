@@ -89,6 +89,38 @@
 
 **3.4 Verifique si cumple la Ley de Kirchhoff de Corrientes en cada nodo tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.**  
 
+*Análisis de corriente en nodos*
+
+![image](https://user-images.githubusercontent.com/116774906/201552494-f35a50fa-3fa0-4c25-8627-b227c16e4b6f.png)
+
+![image](https://user-images.githubusercontent.com/116774906/201552621-0d53362f-0e2b-47fa-9f6d-67e453c675dc.png)
+
+*-------NODO 1 (VERDE)--------*
+
+![image](https://user-images.githubusercontent.com/116774906/201552666-efebd554-166a-4b31-9ad6-d318a8e69f35.png)
+
+*-------NODO 2 (NARANJA)--------*
+
+![image](https://user-images.githubusercontent.com/116774906/201552710-5ece3242-f9ca-469f-8b49-b2c9f1af2e9d.png)
+
+*-------NODO 3 (AZUL)--------*
+
+![image](https://user-images.githubusercontent.com/116774906/201552781-4b1e21bf-d314-4a57-adaa-13c29054cdc9.png)
+
+*-------NODO 4 (VIOLETA)--------*
+
+**Este nodo es de principal de referencia**
+
+![image](https://user-images.githubusercontent.com/116774906/201552866-400b4d9c-bc90-45bc-9e52-cae03cf7df81.png)
+
+*-------NODO 5 (AMARILLO)--------*
+
+![image](https://user-images.githubusercontent.com/116774906/201553126-a2ca9246-998f-4752-b9c6-2156e71ff00b.png)
+
+*Tabla 1.3 Verificación de la LCK.*
+
+![image](https://user-images.githubusercontent.com/116774906/201553177-860483bb-aa26-4cd4-ab3e-a67eab8a16b9.png)
+
 ***4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR***
 
 
