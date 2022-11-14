@@ -1,12 +1,12 @@
-# Informe-1
+# Informe-Laboratorio1
 
 ***1. OBJETIVOS***
 
-*1.1 OBJETIVO GENREAL*
+**1.1 OBJETIVO GENREAL**
 
 •	Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes, mediante cálculos matemáticos para refutar dichas leyes
 
-*1.2. OBJETIVOS ESPECÍFICOS*
+**1.2. OBJETIVOS ESPECÍFICOS**
 
 •	Verificar el cumplimiento de las Leyes de Kirchoff con simulaciones y análisis de forma esquematizada.
 
@@ -16,19 +16,20 @@
 
 ***2. MARCO TEÓRICO***
 
-*2.1 LEY DE VOLTAJE DE KIRCHHOFF*
+**2.1 LEY DE VOLTAJE DE KIRCHHOFF**
 
-*2.2 LEY DE CORRIENTES DE KIRCHHOFF* 
+**2.2 LEY DE CORRIENTES DE KIRCHHOFF** 
 
 ![LVK_LCK](https://user-images.githubusercontent.com/116774906/201530367-cd3467c9-8386-42ea-ab94-4e5a52f1a91f.png)
 
-*2.3 MATERIAL Y EQUIPO REQUERIDO*
-
-![image](https://user-images.githubusercontent.com/116774906/201530666-0236f4bb-a22f-47d3-9d29-a7831ac43935.png)
 
 ***3. EXPLICACIÓN DEL PROCEDIMIENTO***
 
-**3.1 Arme el circuito que se muestra en la figura 1.1 en Tinkercad.**
+**MATERIAL Y EQUIPO REQUERIDO**
+
+![image](https://user-images.githubusercontent.com/116774906/201530666-0236f4bb-a22f-47d3-9d29-a7831ac43935.png)
+
+***3.1 Arme el circuito que se muestra en la figura 1.1 en Tinkercad.***
 
 ![image](https://user-images.githubusercontent.com/116774906/201530802-6a5bcac5-8b2e-43db-816f-cc78275b5c6c.png)
 
@@ -36,7 +37,7 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/201530862-f2a0f86b-40ed-45e8-8a7d-56bf751baf0f.png)
 
-**3.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.**
+***3.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.***
 
 -------Medicion de voltaje-----
 
@@ -46,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/201531084-71d43fe9-c779-4fad-8bfd-b2b432142f92.png)
 
-*Tabla 1.1 Resultados obtenidos de voltajes y corriente, en cada elemento del circuito.*
+***Tabla 1.1 Resultados obtenidos de voltajes y corriente, en cada elemento del circuito.***
 
 ![image](https://user-images.githubusercontent.com/116774906/201532194-fc3d64bf-3c55-4480-8436-8ef7e336acbb.png)
 
@@ -69,7 +70,7 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/201534172-c1b8eebd-3628-4cb4-b71b-97a311e4a791.png)
 
-**3.3 Verifique si cumple la Ley de Kirchhoff de voltajes en cada trayectoria cerrada considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados.** 
+***3.3 Verifique si cumple la Ley de Kirchhoff de voltajes en cada trayectoria cerrada considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados.*** 
 
 *------TRAYECTORIA 1--------*
 
@@ -83,11 +84,11 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/201534853-696aaf2e-da38-4e56-99a6-2a99f63882f7.png)
 
-*Tabla 1.2 Verificación de la LVK.*
+***Tabla 1.2 Verificación de la LVK.***
 
 ![image](https://user-images.githubusercontent.com/116774906/201534937-4f051a95-2c19-4b30-92a1-3e8d7f4c537b.png)
 
-**3.4 Verifique si cumple la Ley de Kirchhoff de Corrientes en cada nodo tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.**  
+***3.4 Verifique si cumple la Ley de Kirchhoff de Corrientes en cada nodo tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.***  
 
 *Análisis de corriente en nodos*
 
@@ -117,7 +118,7 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/201553126-a2ca9246-998f-4752-b9c6-2156e71ff00b.png)
 
-*Tabla 1.3 Verificación de la LCK.*
+***Tabla 1.3 Verificación de la LCK.***
 
 ![image](https://user-images.githubusercontent.com/116774906/201553177-860483bb-aa26-4cd4-ab3e-a67eab8a16b9.png)
 
@@ -144,6 +145,9 @@
 
 ***5. VIDEO***
 
+*Link del video en YouTube:*
+
+https://youtu.be/dw2puZay7xA
 
 ***6. CONCLUSIONES***
 
