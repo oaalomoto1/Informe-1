@@ -135,6 +135,11 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/201554249-6191ea51-8e65-4615-8d6e-dc745715105f.png)
 
+*--------Porcentaje de error de los 5 nodos----------*
+
+![image](https://user-images.githubusercontent.com/116774906/201554372-5e265ec5-5bd8-4302-8a79-488f8c95f211.png)
+
+![image](https://user-images.githubusercontent.com/116774906/201554396-16c1a959-353e-4b2a-a1e8-8673ee2144b9.png)
 
 
 ***5. VIDEO***
