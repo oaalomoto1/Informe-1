@@ -10,7 +10,7 @@
 
 •	Verificar el cumplimiento de las Leyes de Kirchoff con simulaciones y análisis de forma esquematizada.
 
-•	Demostrar que partir de dichas leyes poder analizar cualquier tipo de circuito.
+•	Demostrar que a partir de las leyes de LVK y LCK se puede analizar cualquier tipo de circuito.
 
 •	Relacionar las Leyes de Kirchoff con la Ley de Ohm, demostrando el cumplimiento en la conservación de la energía y la carga
 
@@ -151,6 +151,12 @@ https://youtu.be/dw2puZay7xA
 
 ***6. CONCLUSIONES***
 
+*1.- Al realizar el presente informe, se pudo concluir que la Leyes de Kirchhoff de Voltaje y Corriente si se cumplen, realizando sus respectivas mediciones y calculos, los cuales se pueden apreciar en las tablas 1.2 y 1.3.*
+
+*2.- Las Leyes de Kirchhoff son necesarias y muy importantes a la hora de analizar un circuito eléctrico, ya que se llega casi de manera perfecta al valor medido por instrumentos como el multímetro; mediante cálculos y análisis matemáticos.*
+
+*3.- Con ayuda de las Leyes de Kirchhoff se puede resolver circuitos que por la ley de Ohm no son resueltos, entonces se concluye que dichas leyes son dos igualdades que se basan en la conservación de la energía y la carga en los circuitos eléctricos.*
 
 ***7. BIBLIOGRAFÍA***
+
 
