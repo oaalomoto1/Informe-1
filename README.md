@@ -161,7 +161,7 @@ https://youtu.be/dw2puZay7xA
 
 -Cuadros, I. (2016, 19 de marzo). *LEYES DE KIRCHHOFF.* Recuperado de. https://geekelectronica.com/leyes-de-kirchhoff/
 
--Fernández, J. (s.f). *Ley de Ohm.* Recuperado de. https://www.fisicalab.com/apartado/ley-de-ohm
+-Fernández, J. (s.f). *Ley de Ohm.* Recuperado de. https://www.fisicalab.com/apartado/ley-de-ohm.
 
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
 
