@@ -166,3 +166,6 @@ https://youtu.be/dw2puZay7xA
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
 
 
+![Captura de pantalla 2023-02-25 222924](https://user-images.githubusercontent.com/104925648/221390996-d3a76a8c-f50e-4dc7-9fd8-0896ebb560ae.png)
+
+
